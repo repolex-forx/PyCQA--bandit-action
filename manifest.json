@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "bandit-action",
+  "versions": [
+    {
+      "commit": "044eb14cd9d9e339d23c8f6511f217824a10a256",
+      "parsed_at": "2026-10-21T02:33:39.042879+00:00",
+      "filetree": "filetree/044eb14cd9d9e339d23c8f6511f217824a10a256.nq.gz",
+      "blobs": [
+        "blob/6b613871be68328ab69b144878e49cbf08011142.nq.gz",
+        "blob/123014908bebbfb7ecfa1d15daaceb272fabe05b.nq.gz",
+        "blob/04beb2d04c6092731c946960476314d0309cf1b0.nq.gz",
+        "blob/fbf5bae1ad218cbb858232fb2debd19a4c3e2db2.nq.gz",
+        "blob/559c5e17dbf91b289ea02beffab9a26a86ca1f72.nq.gz",
+        "blob/af26e4d460763a29b82b24b6322719b1d402c6c1.nq.gz",
+        "blob/67e8a09c4b8dec6961cebcd6a90364a4a08eff3f.nq.gz",
+        "blob/ee6e14affc5361a244d204b6be0f856e3c275137.nq.gz",
+        "blob/34f39d2fa23e80361d622a72e0e32e2d52918488.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/fc936e67c6f02fa04a09b048e0d2b395258f99d5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
