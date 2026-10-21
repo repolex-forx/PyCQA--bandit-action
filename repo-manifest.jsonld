@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/bandit-action/commit/044eb14cd9d9e339d23c8f6511f217824a10a256",
       "git:hexsha": "044eb14cd9d9e339d23c8f6511f217824a10a256",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:35:35.182681+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/bandit-action/commit/8a1b30610f61f3f792fe7556e888c9d7dffa52de",
